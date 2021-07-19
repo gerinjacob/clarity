@@ -1,5 +1,6 @@
 const scopes = [
   'angular',
+  'angular:form',
   'a11y',
   'accordion',
   'alert',
